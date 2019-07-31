@@ -1,0 +1,7 @@
+  applications:
+  - name: GetStartedTomcat
+    random-route: true
+    memory: 256M
+    path: target/GetStartedTomcat.war
+    buildpack: java_buildpack
+
