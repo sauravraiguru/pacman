@@ -1,2 +1,2 @@
-# Pacman on IBM Cloud!!
+# Pacman on IBM Cloud :)
 pacman code 
